@@ -6,4 +6,5 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" remote="github" revision="lineage-22.0" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" remote="github" revision="lineage-22.0" />
   <project name="Roynas-Android-Playground/hardware_samsung-extra_interfaces" path="hardware/samsung-ext/interfaces" remote="github" revision="lineage-22" />
+  <project name="Roynas-Android-Playground/android_hardware_samsung" path="hardware/samsung" remote="github" revision="fifteen" />
 </manifest>
